@@ -92,3 +92,5 @@ flowchart LR
 
     Switch -->|"802.1Q Trunk"| Router
 
+## Further Documentation
+-[VLAN Design](docs/vlan-design.md)
